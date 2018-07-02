@@ -18,5 +18,10 @@
 </script>
 
 <style>
+    @import url('https://fonts.googleapis.com/css?family=Dosis:400,700');
 
+    body {
+      font-family: 'Dosis', sans-serif;
+      font-size: 110%;
+    }
 </style>
