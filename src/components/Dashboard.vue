@@ -2,7 +2,9 @@
   <div id="dashboard">
    <ul class="collection with-header">
      <li class="collection-header z-depth-4">
-       <h4>Employees</h4>
+       <h4>
+         <i class="fas fa-users left"></i> Employees
+        </h4>
      </li>
      <li
        v-for="employee in employees"
