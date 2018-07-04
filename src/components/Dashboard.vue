@@ -3,7 +3,7 @@
    <ul class="collection with-header">
      <li class="collection-header z-depth-4">
        <h4>
-         <i class="fas fa-users left"></i> Employees
+         <i class="fas fa-users left"></i> Сотрудники
         </h4>
      </li>
      <li

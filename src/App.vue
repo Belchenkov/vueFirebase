@@ -18,10 +18,10 @@
 </script>
 
 <style>
-    @import url('https://fonts.googleapis.com/css?family=Dosis:400,700');
+    @import url('https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700&subset=cyrillic');
 
     body {
-      font-family: 'Dosis', sans-serif;
-      font-size: 110%;
+      font-family: 'Yanone Kaffeesatz', sans-serif;
+      font-size: 130%;
     }
 </style>

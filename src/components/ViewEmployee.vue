@@ -7,20 +7,20 @@
         </h4>
       </li>
       <li class="collection-item">
-        <i class="fas fa-user-tie left"></i> Employee ID#:<span class="badge white-text green">{{ employee_id }}</span>
+        <i class="fas fa-user-tie left"></i>ID:<span class="badge white-text green">{{ employee_id }}</span>
       </li>
       <li class="collection-item">
-        <i class="fas fa-building left"></i> Department: <span class="badge  white-text  green">{{ dept }}</span>
+        <i class="fas fa-building left"></i> Отдел: <span class="badge  white-text  green">{{ dept }}</span>
       </li>
       <li class="collection-item">
-        <i class="far fa-address-card left"></i> Position :<span class="badge  white-text green">{{ position }}</span>
+        <i class="far fa-address-card left"></i> Должность :<span class="badge  white-text green">{{ position }}</span>
       </li>
     </ul>
     <router-link to="/" class="btn grey">
-      <i class="far fa-hand-point-left left"></i> Back
+      <i class="far fa-hand-point-left left"></i> Назад
     </router-link>
     <button class="btn red" @click="deleteEmployee">
-      <i class="far fa-trash-alt left"></i> Delete
+      <i class="far fa-trash-alt left"></i> Удалить
     </button>
   </div>
 </template>
