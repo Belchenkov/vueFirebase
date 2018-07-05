@@ -1,18 +1,5 @@
 <template>
   <div id="edit-employee">
-    <!-- Spinner -->
-    <div class="preloader-wrapper big" id="spinner" :class="{active: false}">
-      <div class="spinner-layer spinner-green-only">
-        <div class="circle-clipper left">
-          <div class="circle"></div>
-        </div><div class="gap-patch">
-          <div class="circle"></div>
-        </div><div class="circle-clipper right">
-          <div class="circle"></div>
-        </div>
-      </div>
-    </div>  
-  
     <h3>
       <i class="fa fa-user-edit left"></i>Редактировать сотрудника
     </h3>

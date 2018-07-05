@@ -24,4 +24,8 @@
       font-family: 'Yanone Kaffeesatz', sans-serif;
       font-size: 130%;
     }
+
+    input {
+      font-size: 110%!important;
+    }
 </style>
