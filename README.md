@@ -2,6 +2,8 @@
 
 > Simple Employee Managment System
 
+### Demo: http://185.228.232.41/vue_firebase_employees/
+
 ## Build Setup
 
 ``` bash
